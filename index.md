@@ -3,7 +3,7 @@ title: Fresh Flavours
 sidebar:
   entries:
     - is_primary: true
-      title: Welcome
+      title: Fresh Flavours
       url: '#intro'
     - is_primary: false
       title: Who we are
